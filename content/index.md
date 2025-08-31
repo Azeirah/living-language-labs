@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the Living Language Labs
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Get started by reading [[Doorway to curiosity, a radiating beacon of hope]]
