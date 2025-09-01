@@ -38,6 +38,8 @@ In my future, I'm planning to go to Wageningen University and get a master in bi
 
 All of that being said, for now this site is nothing more than a space for me to write, share and explore. It's a place to dive into my curiosities, into ideas, plans, conversations, thoughts, sketches and similar.
 
+The aim of the site is to inspire, ask questions, spread interesting knowledge and _connect_ with other curious minds.
+
 I'll be writing and posting. I would like to commit to write a post _every single day_ for the next 365 days, but I'm not 100% sure that's the right kind of commitment just yet.
 
 I don't think the posts on this site need to be grand or amazing, they just need to be meaningful enough to talk about.
