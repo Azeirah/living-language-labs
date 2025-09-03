@@ -13,6 +13,7 @@ const customComponents: Components = {
 }
 
 export function htmlToJsx(fp: FilePath, tree: Node) {
+  console.log(tree);
   try {
     return toJsxRuntime(tree as Root, {
       Fragment,

@@ -214,9 +214,11 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
     ).catch(errorHandler)
 
     res = results.flat()
+    log.start()
+    log.updateText(res)
+    log.end()
     await pool.terminate()
   }
-
   log.end(`Parsed ${res.length} Markdown files in ${perf.timeSince()}`)
   return res
 }
