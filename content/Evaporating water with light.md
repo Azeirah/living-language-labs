@@ -26,7 +26,7 @@ There are also some newer papers published by the same authors going deeper into
 
 If you want to do interesting science, math or engineering maybe you can tinker with the equations, or get a few green LEDs and [some hydrogel](https://www.amazon.nl/-/en/Polyvinyl-alcohol-PVA-250-g/dp/B087D4FS4Y?th=1) and maybe a fan or some tubes and you can get started tinkering with this stuff!
 
-- The paper mentions interesting cooling effects, can this be used in an interesting new way in an evaporative cooling setup?
+- The paper mentions cooling effects, can this be used in an interesting new way in an evaporative cooling setup?
 * What does this effect mean for fog or clouds?
 - I noticed that in poorly ventilated cellars, pools of water can remain for weeks. Could we perhaps speed this up somehow know that we know about this effect?
 - Could this be meaningful in situations where we grow plants? Might it be useful or meaningful to increase or reduce evaporation rates now that we know where we might've been inadvertently causing evaporation with (green) light?
