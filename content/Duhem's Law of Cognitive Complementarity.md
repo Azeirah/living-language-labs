@@ -240,10 +240,3 @@ updateGraph();
 </script>
 ```
 
-I have to end this post for now, as I have been writing for long enough for now. I will certainly revisit the topic at a later point in time and dive deeper into the fascinating topic of this deceptively simple tradeoff in the novel field of *epistemetrics*.
-
-But for now, please entertain yourself with the amazing *interactive graph* above and [make sure to get yourself a copy](https://www.cambridge.org/nl/universitypress/subjects/philosophy/logic/epistemetrics?format=PB&isbn=9780521178501) of Rescher's Epistemetrics.
-
-Stay tuned for more.
-
-~ Laura

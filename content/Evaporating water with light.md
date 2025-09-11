@@ -8,7 +8,7 @@ Think we understood water? Think again. Do you know when water evaporates? The m
 
 So that's it right? We understand how water evaporates? Nope! Turns out there's a third way for water to evaporate! In 2023, [MIT scientists published a paper](https://www.pnas.org/doi/10.1073/pnas.2312751120) describing how water evaporates when hit by light, which they dubbed "the photomolecular effect". 
 
-The effect is at its strongest when polarised green light hits the surface of a body of water at an angle of 45 degrees. What is most notable about this effect is that it is *much* more effective than using heat to make water evaporate. When 100% of light is used to heat up water to help it evaporate, the theoretical limit is $1.45 kg/m^2h$, whereas the photomolecular effect has been observed to reach evaporation rates of $4-5 kg/(m²h)$ and even $7 kg/(m²h)$. This is 3-5x more efficient than the previously known effect.
+The effect is at its strongest when polarised green light hits the surface of a body of water at an angle of 45 degrees. What is most notable about this effect is that it is *much* more effective than using heat to make water evaporate. When 100% of light is used to heat up water to help it evaporate, the theoretical limit is $1.45 kg/m^2h$, whereas the photomolecular effect has been observed to reach evaporation rates of $4-5 kg/m²h$ and even $7 kg/m²h$. This is 3-5x more efficient than the previously known effect.
 
 What is particularly notable to me is how this effect has been occurring wherever water is found for billions of years. It affects how clouds form and evaporate, how pools evaporate, how leaves hold water, how your glass of water in a home can evaporate spontaneously and much, much more.
 
