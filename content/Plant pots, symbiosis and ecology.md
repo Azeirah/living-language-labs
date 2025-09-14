@@ -81,9 +81,9 @@ Consider this example, if you've read the previous article on symbiosis notation
 
 The shelf above would look something like this
 
-$P_1 | P_2|P_3|P_4|P_5$
-$P_6|P_7|P_8|P_9|P_{10}$
-$P_{11}|P_{12}|P_{13}|P_{14}|...|P_{25}$
+$$P_1 | P_2|P_3|P_4|P_5$$
+$$P_6|P_7|P_8|P_9|P_{10}$$
+$$P_{11}|P_{12}|P_{13}|P_{14}|...|P_{25}$$
 
  The point here is that there are many relationships that the plants are _not having_ with one another and various insects, bacteria, molds, fungi and much more just because they're potted.
 
