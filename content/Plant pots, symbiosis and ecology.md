@@ -119,7 +119,7 @@ This article doesn't have a solution in the ending. My plants are still infected
 
 There is much more to be said about this topic and I'm not writing this as an exposition of my knowledge on this topic. I clearly still have a lot to learn. I'm publishing this as part of an exploration in growing a notation for symbiosis and relationships in the natural world. I have much more reading to do.
 
-I'm also not quite sure whether the "standard model" of symbiosis is enough to capture more nuanced and complicated relationships such as predation and the caretaker relationship.
+I'm also not quite sure whether the "standard model" of symbiosis is enough to capture more nuanced and complicated relationships such as predation and the caretaker relationship within this notation. It is meant to help us understand how relationships at the individual level create ecosystems and downstream effects that are _greater than the sum of the parts_.
 ![[Pasted image 20250915011943.png]]
 
 ### Further reading
