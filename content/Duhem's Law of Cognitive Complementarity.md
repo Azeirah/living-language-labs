@@ -2,7 +2,7 @@
 title: "Duhem's Law of Cognitive Complementarity - My favorite obscure law in epistemology"
 publish_date: 2025-09-02
 published: false
-tags:
+tags: epistemetrics
 ---
 
 One thing I love to do is browse different sections at bookstores and see what I find. About ten years ago, while browsing the philosophy section I found a small, unassuming pink book named [Epistemetrics](https://www.goodreads.com/book/show/3081381-epistemetrics) by Nicholas Rescher:
@@ -20,11 +20,11 @@ I'm interested in writing more about this book at a later point, but for this po
 ## Asking for More Than Truth
 ### Duhem's Law of Cognitive Complementarity
 
-Many mathematical laws describe something so simple and so elemental that it is hard to un-see after you've been exposed to them. This is equally so the case with Duhem's Law of Cognitive Complementarity.
+Many mathematical laws describe something so simple and elemental that it is hard to un-see after you've been exposed to them. This is equally the case with Duhem's Law of Cognitive Complementarity.
 
 It's hard to do Rescher's writing justice, since every single paragraph is both dense and precise. Here goes.
 
-In our everyday usage of the word knowledge, it is clearly distinct from information. What makes knowledge so different? Rescher claims that *certainty* is one aspect that makes knowledge *knowledge*. This is not so hard to imagine - imagine going hiking and you see a mountain in the distance. You say "I think the mountain is about 80km away", your hiking friend says, "You're way off, it's actually 187.5km away.".
+In our everyday usage of the word knowledge, it is clearly distinct from information. What makes knowledge different? Rescher claims that *certainty* is one aspect that makes knowledge *knowledge*. This is not hard to imagine - imagine going hiking and you see a mountain in the distance. You say "I think the mountain is about 80km away". Your hiking friend says, "You're way off, it's actually 187.5km away."
 
 You open your phone, find the mountain and see that it's 187km and 650 meters away. Note what has happened here, not only were you wrong, you were also less *detailed* about your prediction.
 
