@@ -81,7 +81,7 @@ Now we can revisit the claims Rescher made, and ground his qualitative examples 
 | "$25 \pm 10ft$"       | 20              | 0.05                          | 0.080               | 1.00 (capped)               | "virtually certain"               |
 | "1 inch to 100 yards" | ~300            | 0.003                         | 0.080               | 1.00 (trivially)            | "absolutely certain"              |
 | "exactly 25.0 feet"   | ~0.1            | 10.0                          | 0.080               | 0.008                       | not a claim you should/could make |
-|                       |                 |                               |                     |                             |                                   |
+
 As you can see, the budget is fixed at $0.080\mathrm{ft}^{-1}$, and it's up to you to choose how to spend it. If you want a higher security, you can pay for it with detail. If you want more detail, you need to have a good measurement instrument (or repeat your measurements enough times, which we can go into in a later post). In this case you cannot have great detail *and* great security. If you have an amazing and super precise instrument, then the knowledge budget gets much greater and you _can_ spend it on much higher detail, but not in this case, our eyes are good but they're not science-grade measurement equipment.
 
 ## A unit of knowledge
@@ -112,6 +112,7 @@ This turns our eyeballs into an instrument that produce $0.080\mathrm{wit}_\math
 | Your eyes           | $5ft$                            | $0.080\mathrm{wit}_\mathrm{ft}$ |
 | A tape measure      | $0.03ft$                         | $13.3 \mathrm{wit}_\mathrm{ft}$ |
 | A laser rangefinder | $0.003ft$                        | $133 \mathrm{wit}_\mathrm{ft}$  |
+
 Note: $\sigma$ is estimated, not taken from a formal study or paper.
 
 Your eyes produce more 0.080 wits of knowledge per measurement. A tape measure produces about 166x more knowledge about the same tree once used, a laser rangefinder produces 1,660x more (if you figure out how to use it to measure a tree). This matches our intuition perfectly, but we can now put numbers to the amount of *knowledge* generated per given measurement for a given measurement instrument, incredibly interesting!
@@ -123,6 +124,7 @@ Or even more curiously, for measurement devices that measure in completely diffe
 | Your eyes (tree height) | Height      | $5 ft$                           | $0.080\mathrm{wit}_\mathrm{ft}$        |
 | A kitchen thermometer   | Temperature | $1\degree F$                     | $0.399\mathrm{wit}_\mathrm{\degree F}$ |
 | A bathroom scale        | Weight      | $0.5lb$                          | $0.399\mathrm{wit}_\mathrm{lb}$        |
+
 While you cannot compare numbers in different dimensions, you _can_ use this to get a good idea of how well an instrument performs in producing knowledge for a given domain. 
 
 For instance, you are likely familiar with fMRI machines, while they're among the best we have for producing knowledge on what's going on in our brain, each voxel averages roughly 5 milllion neurons with a temporal resolution of ~1-2 seconds. While the events they're trying to measure actually happen at the scale of milliseconds across _individual_ neurons. In wit terms, the knowledge budget for an fMRI relative to the complexity of the brain is actually low.
