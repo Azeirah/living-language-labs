@@ -28,7 +28,7 @@ document.addEventListener("nav", async () => {
     if (!container) {
       container = document.createElement("div")
       container.className = "d3-container"
-      container.style.cssText = "width: 100%; height: 400px; margin: 1em 0;"
+      container.style.cssText = "width: 100%; margin: 1em 0;"
       pre.replaceWith(container)
     }
 
